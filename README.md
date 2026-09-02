@@ -1,278 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Atta%20Ullah%20Khattak&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20Python%20%7C%20PostgreSQL%20%7C%20ERP&descAlignY=61&descSize=18" width="100%"/>
+  <!-- HEADER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=ABU%20BAKAR&fontSize=46&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Odoo%20Developer%20%7C%20ERP%20Engineer%20%7C%20DevOps&descSize=16&descAlignY=62" width="100%" alt="Abu Bakar Header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Odoo+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;ERP+Customization+Specialist+%F0%9F%8F%A2;PostgreSQL+Developer+%F0%9F%97%84%EF%B8%8F;API+Integration+Specialist+%F0%9F%94%8C;Docker+%26+Linux+Enthusiast+%F0%9F%90%B3" alt="Typing SVG"/>
-</a>
+  <br/>
 
-<br><br>
+  <!-- TYPING HEADER -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Architecting+Enterprise+Odoo+%26+ERP+Systems;Python+Backend+%7C+PostgreSQL+Optimization;Building+Automated+Business+Workflows;DevOps+%7C+Docker+%7C+Nginx+%7C+Linux+Infrastructure" alt="Typing Header" />
+  </a>
 
-<a href="https://github.com/attaulahkhattak">
-  <img src="https://komarev.com/ghpvc/?username=attaulahkhattak&label=PROFILE%20VIEWS&color=667eea&style=for-the-badge"/>
-</a>
-<a href="https://github.com/attaulahkhattak?tab=followers">
-  <img src="https://img.shields.io/github/followers/attaulahkhattak?label=FOLLOWERS&style=for-the-badge&color=764ba2"/>
-</a>
-<a href="https://www.linkedin.com/in/atta-ullah-khattak-5078162a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <br/><br/>
+
+  <!-- QUICK BADGES -->
+  <a href="https://github.com/abubakarafghan">
+    <img src="https://img.shields.io/github/followers/abubakarafghan?style=flat-square&logo=github&color=238636&label=Followers" alt="GitHub Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://www.itsabu.pk">
+    <img src="https://img.shields.io/badge/Portfolio-itsabu.pk-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abu-bakar-73b9a02a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abu%20Bakar-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=abubakarafghan&label=Views&style=flat-square&color=8957e5" alt="Profile Views"/>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/gifs/Developer.gif"/>
-
-Hi! I'm **Atta Ullah Khattak**, a **Software Engineer and Odoo Developer** based in Islamabad, Pakistan, passionate about building scalable ERP solutions, automating business processes, and developing business-focused software.
-
-My primary expertise is in **Odoo, Python, PostgreSQL, ERP customization, API integration, Docker, and Linux**.
-
-### 🚀 What I Do
-
-- 🏢 Odoo ERP Development & Customization
-- 🐍 Python Development
-- 🗄️ PostgreSQL Database Development
-- 💰 HR & Payroll Customization
-- 🎫 CRM & Helpdesk Customization
-- 📦 Inventory & Accounting Solutions
-- 🛒 Odoo eCommerce Development
-- 🔌 REST API & Third-Party Integrations
-- 🐳 Docker-Based Development & Deployment
-- ⚙️ Business Process Automation
-
-<br clear="right"/>
+<br/>
 
 ---
 
-## 🔥 Currently
+## 📌 Executive Profile
 
-<table>
-<tr>
-<td width="50%" valign="top">
+> **Senior Odoo Developer & Enterprise ERP Architect** specializing in scalable backend architectures, custom module engineering, complex business workflow automation, and production cloud infrastructure.
 
-### 🔭 Working On
-**Odoo ERP Development**
-Building and customizing Odoo solutions for real-world business processes.
+My focus is on transforming intricate corporate operations into robust, high-performance software systems. From custom financial ledgers and multi-warehouse supply chain logic to RESTful microservices and PostgreSQL database tuning, I design software built for reliability, security, and precision.
 
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Learning
-**Advanced Odoo & DevOps**
-Exploring advanced Odoo development, PostgreSQL optimization, Docker and deployment.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤝 Collaboration
-**Odoo & Python Projects**
-Open to collaborating on ERP, automation, Python and API integration projects.
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Ask Me About
-**Odoo • Python • PostgreSQL • Docker • APIs**
-
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Core Capabilities
 
-**ERP & Backend**
+### ⚙️ Enterprise ERP & Odoo Engineering
+- **Full-Lifecycle Module Development**: Custom Odoo 14–18 applications, module inheritance, custom wizards, and automated actions.
+- **Financial & Accounting Automation**: Multi-currency ledgers, tax engines, dynamic reporting, and payment gateway sync.
+- **Supply Chain & MRP**: Warehouse routing, multi-location inventory tracking, reordering engines, and Bill of Materials (BoM).
+- **HR & Payroll Systems**: Custom salary slip calculation engines, attendance sync, and leave management systems.
+- **eCommerce & POS**: Custom web controllers, storefront themes, and live stock synchronization.
 
-<p align="center">
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+### 🚀 Systems Engineering & DevOps
+- **Python Backends & REST APIs**: High-throughput microservices, custom ORM logic, JSON-RPC, and JWT/OAuth authentication.
+- **PostgreSQL Database Engineering**: Index optimization, deadlock resolution, schema design, and query performance tuning.
+- **Production Infrastructure**: Containerized deployments with Docker Compose, Nginx SSL reverse proxies, automated backup pipelines, and Linux server hardening.
 
-**Web Development**
+<br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+---
 
-**DevOps & Tools**
+## 🛠️ Tech Stack & Tooling
 
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+| Category | Technologies |
+| :--- | :--- |
+| **Core Ecosystem** | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=009688) |
+| **Web & Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,postgresql,docker,linux,git,github,js,html,css,react" />
-</p>
+<br/>
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-| Category | Skills |
-|:---:|:---|
-| 🏢 **ERP** | Odoo, Odoo Studio, ERP Customization |
-| 🐍 **Backend** | Python, Odoo ORM, Business Logic |
-| 🗄️ **Database** | PostgreSQL, SQL, Query Optimization |
-| 🔌 **Integration** | REST API, JSON, OAuth, Webhooks |
-| 🌐 **Frontend** | HTML, CSS, JavaScript, Bootstrap, React |
-| 🐳 **DevOps** | Docker, Linux, Git, Deployment |
-| 💼 **Business** | HR, Payroll, CRM, Helpdesk, Inventory, Accounting |
-| 🛒 **eCommerce** | Odoo Website, eCommerce, Checkout |
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abubakarafghan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarafghan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=abubakarafghan&theme=github-dark-blue&hide_border=true" width="98%" alt="GitHub Contribution Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abubakarafghan&theme=github-dark&hide_border=true&area=true" width="98%" alt="Contribution Activity Graph" />
 
 </div>
 
----
-
-## 🏢 Odoo Expertise
-
-```text
-                           ODOO ERP
-                              │
-       ┌──────────────────────┼──────────────────────┐
-       │                      │                      │
-      HR                    SALES                 FINANCE
-       │                      │                      │
-   ┌───┼───┐              ┌───┼───┐            ┌────┼────┐
-Payroll Attendance       CRM  eCommerce       Accounting Invoicing
-Employees Leaves         Website Sales         Expenses   Payments
-       │                      │                      │
-       └──────────────────────┼──────────────────────┘
-                              │
-                       Custom Modules
-                              │
-                       Python + Odoo ORM
-                              │
-                         PostgreSQL
-```
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Trophies & Milestones
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=attaulahkhattak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaulahkhattak&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abubakarafghan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Trophies" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=attaulahkhattak&theme=tokyonight" width="95%"/>
-</p>
-
-<!--
-  ℹ️ The card above already shows Total Repos and Total Stars —
-  no need for separate badges, they'd just duplicate the same numbers.
--->
+<br/>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=attaulahkhattak&theme=tokyonight&hide_border=true&mode=weekly"/>
-</p>
-
-<!--
-  ℹ️ Switched from github-readme-streak-stats.herokuapp.com to streak-stats.demolab.com —
-  the Heroku-hosted version has been unreliable/deprecated and often shows a broken image.
--->
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=attaulahkhattak&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-</p>
-
----
-
-## 💻 Commit Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=attaulahkhattak&theme=tokyonight&utcOffset=5" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=attaulahkhattak&theme=tokyonight" width="48%"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=attaulahkhattak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!--
-  ⚠️ ACTION NEEDED: replace YOUR_REPOSITORY_1..4 below with your real repo names
-  (exact case, e.g. "odoo-hr-payroll"). GitHub's pin card renders a broken/error
-  image if the repo name doesn't exist or is private. I couldn't fetch your repo
-  list right now (GitHub API rate-limited the request) — send me the names and
-  I'll drop them in for you.
--->
-
-<p align="center">
-  <a href="https://github.com/attaulahkhattak/YOUR_REPOSITORY_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=attaulahkhattak&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/attaulahkhattak/YOUR_REPOSITORY_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=attaulahkhattak&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/attaulahkhattak/YOUR_REPOSITORY_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=attaulahkhattak&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/attaulahkhattak/YOUR_REPOSITORY_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=attaulahkhattak&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  ⚠️ ACTION NEEDED: this only renders if you've set up the "snake" GitHub Action
-  on your attaulahkhattak/attaulahkhattak repo. If you haven't yet, follow the
-  setup at https://github.com/Platane/snk — otherwise this image shows as broken.
-  Delete this whole section if you don't want to bother with it.
--->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/attaulahkhattak/attaulahkhattak/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
+## 📫 Connect & Collaborate
 
 <div align="center">
 
-### 📫 Let's Connect
+  <a href="https://www.itsabu.pk">
+    <img src="https://img.shields.io/badge/Portfolio-itsabu.pk-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abu-bakar-73b9a02a2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abu%20Bakar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/abubakarafghan">
+    <img src="https://img.shields.io/badge/GitHub-abubakarafghan-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/atta-ullah-khattak-5078162a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/attaulahkhattak">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
+  <sub>ABU BAKAR · ODOO DEVELOPER & ERP ARCHITECT</sub>
 
 </div>
