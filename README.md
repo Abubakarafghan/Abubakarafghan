@@ -46,7 +46,7 @@ My focus is on transforming intricate corporate operations into robust, high-per
 ## ⚡ Core Capabilities
 
 ### ⚙️ Enterprise ERP & Odoo Engineering
-- **Full-Lifecycle Module Development**: Custom Odoo 14–18 applications, module inheritance, custom wizards, and automated actions.
+- **Full-Lifecycle Module Development**: Custom Odoo 14–19 applications, module inheritance, custom wizards, and automated actions.
 - **Financial & Accounting Automation**: Multi-currency ledgers, tax engines, dynamic reporting, and payment gateway sync.
 - **Supply Chain & MRP**: Warehouse routing, multi-location inventory tracking, reordering engines, and Bill of Materials (BoM).
 - **HR & Payroll Systems**: Custom salary slip calculation engines, attendance sync, and leave management systems.
